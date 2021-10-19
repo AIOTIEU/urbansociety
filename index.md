@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## AIOTI Urban Society Portfolio
 
-You can use the [editor on GitHub](https://github.com/AIOTIEU/urbansociety.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The focus of the **Urban Society working group of [AIOTI](aioti.eu)** will mainly be on Urban Societies and its Communities, but of course rural areas will be included. Urban Society is cross-cutting by integrating and touching all domains, not only the horizontals but also the vertical domains are intertwined with Urban Society.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aligned with the vision of the European Commission, the main objective is to implement a human-centric approachin which societal challenges are the drivers pushing forward smart solutions, an approach different than the conversant technical-centric vision. The main objective is to increase the drivers of success, to gain more solid footing, to overcome big blockades and last but not least to do the right thing for our ecosystem of people, society, ecology and economy. 
 
-### Markdown
+We will do so by linking to related digital areas like public services, digital privacy, cybersecurity and healthy living focusing on the three main pillars of the European Commission: **more green, more digital and more resilient**. While in the midst of the pandemic, today and tomorrow, now more than ever, we need to think how to rebuild and reboot our cities and communities.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AIOTIEU/urbansociety.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We have the power to make the difference with the AIOTI community. Let’s not forget how much difference we can make, not only for Europe but cross borders.We are on a mission; Let’s (re-)build a more resilient, greener, digital and healthier Post Covid Urban Society.We invite you to Team Up. 
