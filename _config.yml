@@ -1,9 +1,18 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
+- jekyll-feed
+- jekyll-coffeescript
 
 title: AIOTI WG Urban Society
 description: Catalogue of IoT Solutions focused on Urban Society Goals (More Green, More Digital, More Resilient)
 
 github:
   is_project_page: false
+
+collections:
+  solutions:
+    output: true
+
+sass:
+  style: compact
