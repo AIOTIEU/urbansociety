@@ -1,6 +1,6 @@
 ---
 short_name: sample demo
-name: Sample for AIOTI
+name: Sample for AIOTI 2022
 link: https://aioti-eu
 challenges: Public Demos
 provider: AIOTI
