@@ -9,7 +9,7 @@ provider_logo: https://www.ubiwhere.com/files/images/logo_to_share.jpg
 domains: IoT solutions crisis management
 location: Portugal, Spain, Finland, Belgium,
 status: Solution available
-detailed_img: https://urbanplatform.city/img/urban_platform.jpg
+details: <img src="https://urbanplatform.city/img/urban_platform.jpg"/>
 partners: ---
 next_steps: Open-source contributions, AI developments, new deployments and improvements.
 ---

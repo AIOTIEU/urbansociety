@@ -8,7 +8,7 @@ provider_url: https://www.simavi.ro/en
 provider_logo: https://www.simavi.ro/sites/default/files/logo-construction_0.png
 location: Slovakia, Italy, Portugal, Spain, Romania
 status: Project finished
-detailed_img: http://www.floodserv-project.eu/wp-content/uploads/2019/09/FLOOD-serv-portal.png
+details: <img src="http://www.floodserv-project.eu/wp-content/uploads/2019/09/FLOOD-serv-portal.png"/>
 partners: <a href="http://www.floodserv-project.eu/about/consortium/">FLOOD-serv Consortium</a>
 next_steps: ---
 ---

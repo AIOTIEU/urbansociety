@@ -8,7 +8,7 @@ provider_url: https://www.trialog.com/en/home/
 provider_logo: https://www.trialog.com/wp-content/uploads/2020/07/logo-trialog-2020-e1594289248585.png
 location: France, Italy, Netherlands
 status: Project finished
-detailed_img: https://www.accra-project.org/wp-content/uploads/2020/03/Picture1.png
+details: 'ACCRA produced a Methodology Handbook (for agile cocreation of robots for ageing), called LIFE. The goal of the LIFE methodology is to bring together robotics developers, engineers, stakeholders and end-users to cocreate robotics solutions that are more meaningful to end-users, in particular on specific targets such as the elderly. The originality of this methodology is that it seeks to bring together two very different entities: robotics and the elderly with a loss of autonomy. The central axis of this agile cocreation methodology is to position the elderly user at the very heart of the development of robotic solutions.<br><img src="https://www.accra-project.org/wp-content/uploads/2020/03/Picture1.png"/>'
 partners: <a href="https://www.accra-project.org/en/contacts/">ACCRA Consortium</a>
 next_steps: ---
 ---

@@ -8,7 +8,7 @@ provider_url: https://www.ait.ac.at
 provider_logo: https://cooperative-digital.solutions/wp-content/uploads/2020/10/cropped-cropped-Logo-1-removebg-preview.png
 location: Vienna, Austria
 status: Solution available
-detailed_img: https://cooperative-digital.solutions/wp-content/uploads/2020/08/Grafik-UWEDAT.png
+details: <img src="https://cooperative-digital.solutions/wp-content/uploads/2020/08/Grafik-UWEDAT.png"/>
 partners: ---
 next_steps: ---
 ---

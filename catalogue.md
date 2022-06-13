@@ -39,7 +39,7 @@ Browse the solutions provided by AIOTI members in the table below.
         <tr>
           <td colspan="3">
             <strong>
-              <h5><a href="{{ solution.link }}">{{ solution.name }}</a></h5>
+              <a href="{{ solution.link }}">{{ solution.name }}</a>
             </strong>
           </td>
           <td colspan="3">
@@ -72,7 +72,7 @@ Browse the solutions provided by AIOTI members in the table below.
 					<td colspan="9">
 						<strong>More details:</strong>
             <br>
-            <img src="{{ solution.detailed_img }}"/>
+            {{ solution.details }}
 					</td>
 					<td colspan="3">
 						<strong>Next Steps:</strong>
