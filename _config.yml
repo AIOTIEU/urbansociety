@@ -5,7 +5,7 @@ plugins:
 - jekyll-coffeescript
 
 title: AIOTI WG Urban Society
-description: Catalogue of IoT Solutions focused on Urban Society Goals (More Green, More Digital, More Resilient)
+description: Catalogue of IoT Solutions focused on Urban Society Goals <br/>(More Green, More Digital, More Resilient)
 
 github:
   is_project_page: false
