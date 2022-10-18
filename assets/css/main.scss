@@ -4,3 +4,33 @@
 ---
 
 @import "tables";
+
+.page-header-aioti {
+    color: #fff;
+    text-align: center;
+    background-color: rgb(28, 8, 64) !important;
+    padding: 50px;
+    font-weight: bold !important;
+    font-size: 1.6em !important;
+}
+
+.page-header-aioti h1, .page-header-aioti h2, .page-header-aioti h3, .page-header-aioti h4, .page-header-aioti h5, .page-header-aioti h6 {
+    color: #fff;
+    text-align: center;
+    background-color: rgb(28, 8, 64) !important;
+    font-weight: 800 !important;
+    font-size: 2em !important;
+    margin: 0.67em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: rgb(28, 8, 64) !important;
+}
