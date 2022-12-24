@@ -5,10 +5,10 @@ link: http://www.project-pulse.eu/
 challenges: Air Pollution in Urban Regions
 provider: LifeSupporting Technologies - Universidad Politécnica de Madrid
 provider_url: https://www.lst.tfo.upm.es/
-provider_logo: /logos/lifestech.png
+provider_logo: logos/lifestech.png
 location: Barcelona, Spain
 status: Project finished
-details: Pulsair App has been developed to foster a healthy lifestyle and to make people more aware about the air pollution in the city. The app can be connected to FitBit, Garmin and Asus health tracker devices; the citizens can provide subjective data (from app questionnaires), physiological and activity data (from the wearable sensors) and localization data.<img src="/images/lifestech_pulseair.jpg"/>
+details: Pulsair App has been developed to foster a healthy lifestyle and to make people more aware about the air pollution in the city. The app can be connected to FitBit, Garmin and Asus health tracker devices; the citizens can provide subjective data (from app questionnaires), physiological and activity data (from the wearable sensors) and localization data.<img src="images/lifestech_pulseair.jpg"/>
 partners: <a href="http://www.project-pulse.eu/about/partners/">PULSE Consortium</a>
 next_steps: ---
 ---

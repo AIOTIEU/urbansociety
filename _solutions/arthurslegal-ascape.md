@@ -5,7 +5,7 @@ link: https://ascape-project.eu/the_project/overview
 challenges: Active  &  Healthy Living and Ageing
 provider: Arthur's Legal
 provider_url: https://arthurslegal.com/
-provider_logo: /logos/arthurslegal.jpg
+provider_logo: logos/arthurslegal.jpg
 location: Greece, Spain, Sweden
 status: Ongoing Project
 details: The role of ASCAPE is to support the Patient by providing actionable information to their Doctor. This way, the role of the Doctor is not replaced, but rather, is supplemented and enhanced, by the use of Artificial Intelligence and Big Data. These are delivered in an appropriate, fit-for-purpose environment, which safeguards patient data privacy, security and anonymity, and promotes a balanced relationship between Patients and Doctors.
