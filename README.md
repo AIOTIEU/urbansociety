@@ -28,3 +28,13 @@ We have the power to make the difference with the AIOTI community. Let’s not f
 This Github Pages repository serves the catalogue of AIOTI members to demonstrate the work relevant for the Urban Society needs.
 
 **Catalogue available at https://aiotieu.github.io/urbansociety/**
+
+## AIOTI Members - How to Contribute
+
+1. Copy the `sample/catalogue_sample2.md` file content into a new file in the `_solutions` folder.
+2. Name the new file according to the name of your solution and add the extension `.md`
+3. Fill in all the meta-data made available in the sample file as guidelines so it can be properly rendered on the website
+4. Ensure you follow Markdown rules, e.g., in text avoid the character ':' (recognized as a separator field) and also isolated '-'.
+5. Save your file. If all is fine you will see a table format; if there is some error, only Markdown is visible.
+6. If you want to add a logo, place it under `logos`.
+7. One image can be provided, place it under `images`.
