@@ -5,7 +5,7 @@ link:
 challenges: Active  &  Healthy Living and Ageing
 provider: INFN Laboratory for Technology Transfer (National Institute of Nuclear Physics-Bologna)
 provider_url: https://www.bo.infn.it/en/welcome-to-infn-bologna-unit/
-provider_logo: https://web.infn.it/FRGIM/wp-content/uploads/2019/04/NEW_LOGO_BOLOGNA_ESTESO-300x212.png
+provider_logo: /logos/infn.png
 location: Bologna
 status: Project finished
 details: 'This experience analyses Edge controlled/assisted system with Multiaccess Edge Computing based approach O-RAN (Transforming the Radio Access Networks Industry Towards Open, Intelligent, Virtualized and Fully Interoperable RAN)

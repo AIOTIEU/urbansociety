@@ -5,10 +5,10 @@ link: https://cooperative-digital.solutions/uwedat/
 challenges: Air Pollution in Urban Regions, Indoor Environmental Quality
 provider: AIT
 provider_url: https://www.ait.ac.at
-provider_logo: https://cooperative-digital.solutions/wp-content/uploads/2020/10/cropped-cropped-Logo-1-removebg-preview.png
+provider_logo: /logos/ait.png
 location: Vienna, Austria
 status: Solution available
-details: <img src="https://cooperative-digital.solutions/wp-content/uploads/2020/08/Grafik-UWEDAT.png"/>
+details: <img src="/images/ait_uwedat.png"/>
 partners: ---
 next_steps: ---
 ---
