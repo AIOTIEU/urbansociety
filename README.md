@@ -31,7 +31,7 @@ This Github Pages repository serves the catalogue of AIOTI members to demonstrat
 
 ## AIOTI Members - How to Contribute
 
-1. Copy the `sample/catalogue_sample2.md` file content into a new file in the `_solutions` folder.
+1. Copy the `sample/catalogue_sample.md` file content into a new file in the `_solutions` folder.
 2. Name the new file according to the name of your solution and add the extension `.md`
 3. Fill in all the meta-data made available in the sample file as guidelines so it can be properly rendered on the website
 4. Ensure you follow Markdown rules, e.g., in text avoid the character ':' (recognized as a separator field) and also isolated '-'.
